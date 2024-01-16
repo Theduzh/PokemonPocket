@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hAZh7ObiVcUP/yeaPtEa/CV5vOAK7+7GY8TfKkL9Icw4zqeF7KcBvqnyfXwFR9Q+TxbAjK8yf5FJvq68QVNoXQ==",
+  "dgSpecHash": "LSUJunZIpMX3T8k6KIbs+W1GjMWHhvMF8vux/sPvdcNk2BQyDBpu4rKS/yxBcJ7sSH3JYPEYm4+YvjI/W7ezlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Du Zhenghao\\Dropbox\\My PC (DZH-Aftershock-Laptop)\\Documents\\Official\\GithubPortfolioProjects\\PokemonPocket\\PokemonPocket\\PokemonPocket.csproj",
+  "projectFilePath": "C:\\Users\\Du Zhenghao\\Dropbox\\My PC (DZH-Aftershock-Laptop)\\Documents\\portfolio\\PokemonPocket\\PokemonPocket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Du Zhenghao\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Du Zhenghao\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
